@@ -1,2 +1,1 @@
-print("hello world")
-print("hidden my secrets")
+print("hello world") 
